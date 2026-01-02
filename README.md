@@ -16,3 +16,5 @@
     - `ssh root@<PI's IP ADDRESS>`
 7. Complete the OS installation process
 8. Login using the default credentials; `login: root` & `password: dietpi`
+9. Configure a Static IP Address in `dietpi-config > 7. Network Options: Adapters`
+10. Run a backup using `dietpi-backup`
